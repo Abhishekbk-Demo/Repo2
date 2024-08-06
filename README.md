@@ -1,2 +1,4 @@
 # Repo2
-## This is the editing of main-branch
+
+## This is the edited of sub branch1.
+
